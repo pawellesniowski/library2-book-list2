@@ -1,0 +1,7 @@
+export const CONSTANS = {
+    ADD_BOOK: 'ADD_BOOK',
+    REMOVE_BOOK: 'REMOVE_BOOK',
+    SHOW_DETAILS: 'SHOW_DETAILS'
+};
+
+
